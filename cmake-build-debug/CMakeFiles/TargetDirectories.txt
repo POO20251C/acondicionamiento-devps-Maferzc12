@@ -1,0 +1,3 @@
+C:/Users/mafer/OneDrive/Escritorio/GIt/Tarea 2/acondicionamiento-devps-Maferzc12/cmake-build-debug/CMakeFiles/acondicionamiento_devps_Maferzc12.dir
+C:/Users/mafer/OneDrive/Escritorio/GIt/Tarea 2/acondicionamiento-devps-Maferzc12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mafer/OneDrive/Escritorio/GIt/Tarea 2/acondicionamiento-devps-Maferzc12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
